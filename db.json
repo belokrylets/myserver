@@ -1,28 +1,27 @@
 {
- 'users': [
+  "users": [
     {
-      'id': 1,
-      'name': "Сергей",
-      'surname': "Белокрылец",
-      'login': "Sergio",
-      'password': "Sergio",
-      'contacts': [
-        { 'name': "Иван", 'surname': "Иванов", 'phone': "89959969777", 'id': 0 },
-        { 'name': "Семен", 'surname': "Семенов", 'phone': "89959969774", 'id': 1 },
-        { 'name': "Илья", 'surname': "Ильин", 'phone': "89959961777", 'id': 2 },
-        { 'name': "Андрей", 'surname': "Андреев", 'phone': "89219969777", 'id': 6 }
+      "id": 1,
+      "name": "Сергей",
+      "surname": "Белокрылец",
+      "login": "Sergio",
+      "password": "Sergio",
+      "contacts": [
+        { "name": "Иван", "surname": "Иванов", "phone": "89959969777", "id": 0 },
+        { "name": "Семен", "surname": "Семенов", "phone": "89959969774", "id": 1 },
+        { "name": "Илья", "surname": "Ильин", "phone": "89959961777", "id": 2 },
+        { "name": "Андрей", "surname": "Андреев", "phone": "89219969777", "id": 6 }
       ]
     },
-
     {
-      'id': 2,
-      'name': "nameUser2",
-      'surname': "'surname'User2",
-      'login': "User2",
-      'password': "SeUser2rgio",
-      'contacts': [
-        { 'name': "Иван", 'surname': "Иванов", 'phone': "89959969777", 'id': 0 },
-        { 'name': "Семен", 'surname': "Семенов", 'phone': "89959969774", 'id': 1 }
+      "id": 2,
+      "name": "nameUser2",
+      "surname": "surnameUser2",
+      "login": "User2",
+      "password": "SeUser2rgio",
+      "contacts": [
+        { "name": "Иван", "surname": "Иванов", "phone": "89959969777", "id": 0 },
+        { "name": "Семен", "surname": "Семенов", "phone": "89959969774", "id": 1 }
       ]
     }
   ]
