@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+users: [
+    {
+      id: 1,
+      name: "Сергей",
+      surname: "Белокрылец",
+      login: "Sergio",
+      password: "Sergio",
+      contacts: [
+        { name: "Иван", surname: "Иванов", phone: "89959969777", id: 0 },
+        { name: "Семен", surname: "Семенов", phone: "89959969774", id: 1 },
+        { name: "Илья", surname: "Ильин", phone: "89959961777", id: 2 },
+        { name: "Андрей", surname: "Андреев", phone: "89219969777", id: 6 }
+      ]
+    },
+
+    {
+      id: 2,
+      name: "nameUser2",
+      surname: "surnameUser2",
+      login: "User2",
+      password: "SeUser2rgio",
+      contacts: [
+        { name: "Иван", surname: "Иванов", phone: "89959969777", id: 0 },
+        { name: "Семен", surname: "Семенов", phone: "89959969774", id: 1 }
+      ]
+    }
+  ]
 }
