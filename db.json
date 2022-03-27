@@ -14,11 +14,11 @@
       ]
     },
     {
-      "id": 3,
-      "name": "nameUser2",
-      "surname": "surnameUser2",
+      "id": 2,
+      "name": "User2",
+      "surname": "User2",
       "login": "User2",
-      "password": "SeUser2rgio",
+      "password": "User2",
       "contacts": [
         { "name": "Иван", "surname": "Иванов", "phone": "89959969777", "id": 0 },
         { "name": "Семен", "surname": "Семенов", "phone": "89959969774", "id": 1 }
