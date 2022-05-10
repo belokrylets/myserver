@@ -111,15 +111,6 @@
             { "answer": "1", "isCorrect": "false" },
             { "answer": "3", "isCorrect": "false2" }
           ]
-        },
-        {
-          "id": 10,
-          "question": "О3 в химии - это...",
-          "answers": [
-            { "answer": "озон", "isCorrect": "true" },
-            { "answer": "кислород", "isCorrect": "false" },
-            { "answer": "углекислый газ", "isCorrect": "false2" }
-          ]
         }
       ]
     },
@@ -208,15 +199,6 @@
             { "answer": "1", "isCorrect": "false" },
             { "answer": "3", "isCorrect": "false2" }
           ]
-        },
-        {
-          "id": 10,
-          "question": "О3 в химии - это...",
-          "answers": [
-            { "answer": "озон", "isCorrect": "true" },
-            { "answer": "кислород", "isCorrect": "false" },
-            { "answer": "углекислый газ", "isCorrect": "false2" }
-          ]
         }
       ]
     },
@@ -304,15 +286,6 @@
             { "answer": "2", "isCorrect": "true" },
             { "answer": "1", "isCorrect": "false" },
             { "answer": "3", "isCorrect": "false2" }
-          ]
-        },
-        {
-          "id": 10,
-          "question": "О3 в химии - это...",
-          "answers": [
-            { "answer": "озон", "isCorrect": "true" },
-            { "answer": "кислород", "isCorrect": "false" },
-            { "answer": "углекислый газ", "isCorrect": "false2" }
           ]
         }
       ]
