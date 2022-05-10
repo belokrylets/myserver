@@ -41,163 +41,125 @@
         },
         {
           "id": 2,
-          "question": "Первый элемент в таблице менделеева?",
+          "question": "Число -7 натуральное?",
           "answers": [
-            { "answer": "Водород", "isCorrect": "true" },
-            { "answer": "Магний", "isCorrect": "false" },
-            { "answer": "Железо", "isCorrect": "false2" }
+            { "answer": "нет", "isCorrect": "true" },
+            { "answer": "да", "isCorrect": "false" },
+            { "answer": "нет верного ответа", "isCorrect": "false2" }
           ]
         },
         {
           "id": 3,
-          "question": "Какая планета ближе всех к солнцу",
+          "question": "Могут ли десятичные дроби быть отрицательными?",
           "answers": [
-            { "answer": "Меркурий", "isCorrect": "true" },
-            { "answer": "Венера", "isCorrect": "false" },
-            { "answer": "Марс", "isCorrect": "false2" }
+            { "answer": "да", "isCorrect": "true" },
+            { "answer": "нет", "isCorrect": "false" },
+            { "answer": "нет верного ответа", "isCorrect": "false2" }
           ]
         },
         {
           "id": 4,
-          "question": "Сколько клеток в шахматной доске",
+          "question": "Каким числом является число 1?",
           "answers": [
-            { "answer": "64", "isCorrect": "true" },
-            { "answer": "16", "isCorrect": "false" },
-            { "answer": "32", "isCorrect": "false2" }
+            { "answer": "оно не относиться ни к простым, ни к сложным", "isCorrect": "true" },
+            { "answer": "сложным", "isCorrect": "false" },
+            { "answer": "простым", "isCorrect": "false2" }
           ]
         },
         {
           "id": 5,
-          "question": "Годы Первой мировой войны?",
+          "question": "В правильной шестиугольной призме все ребра равны 4. Найти площадь большего диагонального сечения:",
           "answers": [
-            { "answer": "1914-1918 гг", "isCorrect": "true" },
-            { "answer": "1914-1917 гг", "isCorrect": "false" },
-            { "answer": "1914-1920 гг", "isCorrect": "false2" }
+            { "answer": "32", "isCorrect": "true" },
+            { "answer": "72", "isCorrect": "false" },
+            { "answer": "64", "isCorrect": "false2" }
           ]
         },
         {
           "id": 6,
-          "question": "Человек состоит из воды на...",
+          "question": "За 6 кг груши заплатили 186 рублей. Сколько тенге нужно заплатить за 8 кг груш?",
           "answers": [
-            { "answer": "65-70%", "isCorrect": "true" },
-            { "answer": "95%", "isCorrect": "false" },
-            { "answer": "85-90%", "isCorrect": "false2" }
+            { "answer": "248", "isCorrect": "true" },
+            { "answer": "239", "isCorrect": "false" },
+            { "answer": "250", "isCorrect": "false2" }
           ]
         },
         {
           "id": 7,
-          "question": "С какой страной Россия не имеет границ?",
+          "question": "Периметр прямоугольника равен 30 см. Найдите его стороны, если площадь прямоугольника равна 56 см2:",
           "answers": [
-            { "answer": "Таджикистан", "isCorrect": "true" },
-            { "answer": "КНДР", "isCorrect": "false" },
-            { "answer": "Грузия", "isCorrect": "false2" }
-          ]
-        },
-        {
-          "id": 8,
-          "question": "Сколько законов Ньютона существует?",
-          "answers": [
-            { "answer": "3", "isCorrect": "true" },
-            { "answer": "2", "isCorrect": "false" },
-            { "answer": "4", "isCorrect": "false2" }
-          ]
-        },
-        {
-          "id": 9,
-          "question":
-            "Решите это элементарное уравнение: 5х–16=3х–12. Чему равен х?",
-          "answers": [
-            { "answer": "2", "isCorrect": "true" },
-            { "answer": "1", "isCorrect": "false" },
-            { "answer": "3", "isCorrect": "false2" }
+            { "answer": "7 и 8 см", "isCorrect": "true" },
+            { "answer": "8 и 6 см", "isCorrect": "false" },
+            { "answer": "28 и 2 см", "isCorrect": "false2" }
           ]
         }
       ]
     },
     {
-      "block": "chemistry",
-      "russianName": "Химия",
+      "block": "capitals",
+      "russianName": "Столицы",
       "questions": [
         {
           "id": 1,
-          "question": "2*2?",
+          "question": "Столицей Франции является город:",
           "answers": [
-            { "answer": "4", "isCorrect": "true" },
-            { "answer": "6", "isCorrect": "false" },
-            { "answer": "2", "isCorrect": "false2" }
+            { "answer": "Париж", "isCorrect": "true" },
+            { "answer": "Мадрид", "isCorrect": "false" },
+            { "answer": "Брюссель", "isCorrect": "false2" }
           ]
         },
         {
           "id": 2,
-          "question": "Первый элемент в таблице менделеева?",
+          "question": "Столица США?",
           "answers": [
-            { "answer": "Водород", "isCorrect": "true" },
-            { "answer": "Магний", "isCorrect": "false" },
-            { "answer": "Железо", "isCorrect": "false2" }
+            { "answer": "Вашингтон", "isCorrect": "true" },
+            { "answer": "Бостон", "isCorrect": "false" },
+            { "answer": "Нью-Йорк", "isCorrect": "false2" }
           ]
         },
         {
           "id": 3,
-          "question": "Какая планета ближе всех к солнцу",
+          "question": "Столицей Южной Кореи является город:",
           "answers": [
-            { "answer": "Меркурий", "isCorrect": "true" },
-            { "answer": "Венера", "isCorrect": "false" },
-            { "answer": "Марс", "isCorrect": "false2" }
+            { "answer": "Сеул", "isCorrect": "true" },
+            { "answer": "Дакка", "isCorrect": "false" },
+            { "answer": "Пхеньян", "isCorrect": "false2" }
           ]
         },
         {
           "id": 4,
-          "question": "Сколько клеток в шахматной доске",
+          "question": "Столицей Турции является город:",
           "answers": [
-            { "answer": "64", "isCorrect": "true" },
-            { "answer": "16", "isCorrect": "false" },
-            { "answer": "32", "isCorrect": "false2" }
+            { "answer": "Анкара", "isCorrect": "true" },
+            { "answer": "Стамбул", "isCorrect": "false" },
+            { "answer": "Анталия", "isCorrect": "false2" }
           ]
         },
         {
           "id": 5,
-          "question": "Годы Первой мировой войны?",
+          "question": "Административной столицей ЮАР является город:",
           "answers": [
-            { "answer": "1914-1918 гг", "isCorrect": "true" },
-            { "answer": "1914-1917 гг", "isCorrect": "false" },
-            { "answer": "1914-1920 гг", "isCorrect": "false2" }
+            { "answer": "Претория", "isCorrect": "true" },
+            { "answer": "Кейптаун", "isCorrect": "false" },
+            { "answer": "Дурбан", "isCorrect": "false2" }
           ]
         },
         {
           "id": 6,
-          "question": "Человек состоит из воды на...",
+          "question": "Столицей Сирии является город:",
           "answers": [
-            { "answer": "65-70%", "isCorrect": "true" },
-            { "answer": "95%", "isCorrect": "false" },
-            { "answer": "85-90%", "isCorrect": "false2" }
+            { "answer": "Дамаск", "isCorrect": "true" },
+            { "answer": "Алеппо", "isCorrect": "false" },
+            { "answer": "Амман", "isCorrect": "false2" }
           ]
         },
         {
           "id": 7,
-          "question": "С какой страной Россия не имеет границ?",
+          "question": "Столицей Канады является город:",
           "answers": [
-            { "answer": "Таджикистан", "isCorrect": "true" },
-            { "answer": "КНДР", "isCorrect": "false" },
-            { "answer": "Грузия", "isCorrect": "false2" }
-          ]
-        },
-        {
-          "id": 8,
-          "question": "Сколько законов Ньютона существует?",
-          "answers": [
-            { "answer": "3", "isCorrect": "true" },
-            { "answer": "2", "isCorrect": "false" },
-            { "answer": "4", "isCorrect": "false2" }
-          ]
-        },
-        {
-          "id": 9,
-          "question":
-            "Решите это элементарное уравнение: 5х–16=3х–12. Чему равен х?",
-          "answers": [
-            { "answer": "2", "isCorrect": "true" },
-            { "answer": "1", "isCorrect": "false" },
-            { "answer": "3", "isCorrect": "false2" }
+            { "answer": "Оттава", "isCorrect": "true" },
+            { "answer": "Монреаль", "isCorrect": "false" },
+            { "answer": "Квебек", "isCorrect": "false2" }
           ]
         }
       ]
