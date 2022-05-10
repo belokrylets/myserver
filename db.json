@@ -100,7 +100,7 @@
       "russianName": "Столицы",
       "questions": [
         {
-          "id": 1,
+          "id": 8,
           "question": "Столицей Франции является город:",
           "answers": [
             { "answer": "Париж", "isCorrect": "true" },
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "id": 2,
+          "id": 9,
           "question": "Столица США?",
           "answers": [
             { "answer": "Вашингтон", "isCorrect": "true" },
@@ -118,7 +118,7 @@
           ]
         },
         {
-          "id": 3,
+          "id": 10,
           "question": "Столицей Южной Кореи является город:",
           "answers": [
             { "answer": "Сеул", "isCorrect": "true" },
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "id": 4,
+          "id": 11,
           "question": "Столицей Турции является город:",
           "answers": [
             { "answer": "Анкара", "isCorrect": "true" },
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "id": 5,
+          "id": 12,
           "question": "Административной столицей ЮАР является город:",
           "answers": [
             { "answer": "Претория", "isCorrect": "true" },
@@ -145,7 +145,7 @@
           ]
         },
         {
-          "id": 6,
+          "id": 13,
           "question": "Столицей Сирии является город:",
           "answers": [
             { "answer": "Дамаск", "isCorrect": "true" },
@@ -154,7 +154,7 @@
           ]
         },
         {
-          "id": 7,
+          "id": 14,
           "question": "Столицей Канады является город:",
           "answers": [
             { "answer": "Оттава", "isCorrect": "true" },
